@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LetterTracker
+comment0.text=\n\ Write\ a\ description\ of\ class\ LetterTracker\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=LetterTracker()
+comment2.params=increment
+comment2.target=int\ setValueOfLetterTo(int)
+comment3.params=
+comment3.target=int\ returnLetter()
+comment4.params=
+comment4.target=int\ reinitialize()
+numComments=5

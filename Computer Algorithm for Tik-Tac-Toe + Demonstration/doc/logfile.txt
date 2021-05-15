@@ -1,0 +1,36 @@
+Class documentation
+<---- javadoc command: ---->
+/private/var/folders/w8/nxjn8g0s0s18pnwmy7wp6k8w0000gn/T/AppTranslocation/3EB615D0-B592-492A-B406-D60B230AF62F/d/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+/private/var/folders/w8/nxjn8g0s0s18pnwmy7wp6k8w0000gn/T/AppTranslocation/3EB615D0-B592-492A-B406-D60B230AF62F/d/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/private/var/folders/w8/nxjn8g0s0s18pnwmy7wp6k8w0000gn/T/AppTranslocation/3EB615D0-B592-492A-B406-D60B230AF62F/d/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/private/var/folders/w8/nxjn8g0s0s18pnwmy7wp6k8w0000gn/T/AppTranslocation/3EB615D0-B592-492A-B406-D60B230AF62F/d/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/private/var/folders/w8/nxjn8g0s0s18pnwmy7wp6k8w0000gn/T/AppTranslocation/3EB615D0-B592-492A-B406-D60B230AF62F/d/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/private/var/folders/w8/nxjn8g0s0s18pnwmy7wp6k8w0000gn/T/AppTranslocation/3EB615D0-B592-492A-B406-D60B230AF62F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.base.jar:/private/var/folders/w8/nxjn8g0s0s18pnwmy7wp6k8w0000gn/T/AppTranslocation/3EB615D0-B592-492A-B406-D60B230AF62F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.controls.jar:/private/var/folders/w8/nxjn8g0s0s18pnwmy7wp6k8w0000gn/T/AppTranslocation/3EB615D0-B592-492A-B406-D60B230AF62F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.fxml.jar:/private/var/folders/w8/nxjn8g0s0s18pnwmy7wp6k8w0000gn/T/AppTranslocation/3EB615D0-B592-492A-B406-D60B230AF62F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.graphics.jar:/private/var/folders/w8/nxjn8g0s0s18pnwmy7wp6k8w0000gn/T/AppTranslocation/3EB615D0-B592-492A-B406-D60B230AF62F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.media.jar:/private/var/folders/w8/nxjn8g0s0s18pnwmy7wp6k8w0000gn/T/AppTranslocation/3EB615D0-B592-492A-B406-D60B230AF62F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.properties.jar:/private/var/folders/w8/nxjn8g0s0s18pnwmy7wp6k8w0000gn/T/AppTranslocation/3EB615D0-B592-492A-B406-D60B230AF62F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.swing.jar:/private/var/folders/w8/nxjn8g0s0s18pnwmy7wp6k8w0000gn/T/AppTranslocation/3EB615D0-B592-492A-B406-D60B230AF62F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.web.jar:/Users/claytonwasenius/Desktop/Java A170/ExtraCreditGaming1Player
+-d
+/Users/claytonwasenius/Desktop/Java A170/ExtraCreditGaming1Player/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/claytonwasenius/Desktop/Java A170/ExtraCreditGaming1Player/ExtraCreditGaming1Player.java
+<---- end of javadoc command ---->
+Loading source file /Users/claytonwasenius/Desktop/Java A170/ExtraCreditGaming1Player/ExtraCreditGaming1Player.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating /Users/claytonwasenius/Desktop/Java A170/ExtraCreditGaming1Player/doc/ExtraCreditGaming1Player.html...
+Generating /Users/claytonwasenius/Desktop/Java A170/ExtraCreditGaming1Player/doc/package-summary.html...
+Generating /Users/claytonwasenius/Desktop/Java A170/ExtraCreditGaming1Player/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/claytonwasenius/Desktop/Java A170/ExtraCreditGaming1Player/doc/allclasses.html...
+Generating /Users/claytonwasenius/Desktop/Java A170/ExtraCreditGaming1Player/doc/allclasses.html...
+Generating /Users/claytonwasenius/Desktop/Java A170/ExtraCreditGaming1Player/doc/index.html...
